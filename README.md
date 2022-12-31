@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @osama-mahmoud-h
+- I'm Computer system engineering student 2018:2023
 - 👀 I’m interested in problem solving || backend
+- Programming languages (c++,java,node.js)
+- Frameworks(Spring Boot , express.js)
 - 🌱 I’m currently learning  backend
 
 <!---
