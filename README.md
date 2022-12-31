@@ -3,7 +3,7 @@
 - 👀 I’m interested in problem solving || backend
 - Programming languages (c++,java,node.js)
 - Frameworks(Spring Boot , express.js)
-- 🌱 I’m currently learning  backend
+- 🌱 I’m currently Student & learning  backend
 
 <!---
 osama-mahmoud-h/osama-mahmoud-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
